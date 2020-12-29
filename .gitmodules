@@ -1,0 +1,12 @@
+[submodule "udagram-feed-api"]
+	path = udagram-feed-api
+	url = git@github.com:uanat-gpsw/udagram-feed-api.git
+[submodule "udagram-user-api"]
+	path = udagram-user-api
+	url = git@github.com:uanat-gpsw/udagram-user-api.git
+[submodule "udagram-frontend"]
+	path = udagram-frontend
+	url = git@github.com:uanat-gpsw/udagram-frontend.git
+[submodule "udagram-reverseproxy"]
+	path = udagram-reverseproxy
+	url = git@github.com:uanat-gpsw/udagram-reverseproxy.git
